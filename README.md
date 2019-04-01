@@ -6,29 +6,26 @@ This contains my notes for research papers that I've read. Papers are arranged a
 
 Contents:
 
-###### Machine Learning
+- ###### Machine Learning
 - 2019 Papers
 - 2018 Papers
-
-###### Ethics
+- ###### Ethics
 - 2019 Papers
 - 2018 Papers
 
 
 #### Machine Learning
 2019
-	- Paper 1
-	- Paper 2
-	
+- Paper 1
+- Paper 2
 2018
-	- Paper 1
-	- Paper 2
+- Paper 1
+- Paper 2
 	
 #### Ethics
 2019
-	- Paper 1
-	- Paper 2
-	
+- Paper 1
+- Paper 2	
 2018
-	- Paper 1
-	- Paper 2
+- Paper 1
+- Paper 2
