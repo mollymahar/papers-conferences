@@ -7,11 +7,11 @@ This contains my notes for research papers that I've read. Papers are arranged a
 Contents:
 
 - [Machine Learning](#machine-learning)
-- [2019 Papers](#2019-ml-papers)
-- [2018 Papers](#2018-ml-papers)
+  - [2019 Papers](#2019-ml-papers)
+  - [2018 Papers](#2018-ml-papers)
 - [Ethics](#ethics)
-- [2019 Papers](#2019-ethics-papers)
-- [2018 Papers](#2018-ethics-papers)
+  - [2019 Papers](#2019-ethics-papers)
+  - [2018 Papers](#2018-ethics-papers)
 
 # Machine Learning
 
