@@ -17,21 +17,21 @@ Contents:
 
 ## 2019 ML Papers
 
-- [Paper Name](URL) [source](URL)
+- [Paper Name](URL), [(source)](URL)
 
 ## 2018 ML Papers
 
-- [Paper Name](URL) [source](URL)
+- [Paper Name](URL), [(source)](URL)
 
 # Ethics
 
 ## 2019 Ethics Papers
 
-- [Paper Name](URL) [source](URL)
+- [Paper Name](URL), [(source)](URL)
 
 ## 2018 Ethics Papers
 
-- [Paper Name](URL) [source](URL)
+- [Paper Name](URL), [(source)](URL)
 
 
 [1]:https://github.com/DanielTakeshi/Paper_Notes
