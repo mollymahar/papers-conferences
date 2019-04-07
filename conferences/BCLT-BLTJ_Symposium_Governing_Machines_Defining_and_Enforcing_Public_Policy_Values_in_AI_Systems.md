@@ -70,7 +70,7 @@ We covered many issues relevant to my current work, including:
 		- Who is the data controller?
 		- Consent and purpose limitation
 - Introduced the idea of Human-Over-the-Loop in addition to human-in-the-loop and out-of-the-loop, which I liked. Human-Over-the-Loop adjusts parameters _during_ the execution of the algorithm (ex of Google Maps navigation, as a user I can change course while it's running and the system adjusts to the new route)
-- ![Risk Analysis for choosing when and where to put humans in the loop](../images/BCLT_RiskAnalysis.JPG)
+- ![Risk Analysis for choosing when and where to put humans in the loop](.../images/BCLT_RiskAnalysis.JPG)
 - Singapore has a governance framework available online [here](http://www.pdpc.gov.sg/model-ai-gov)
 
 ### Panel: Ethical Machines – Professional Knowledge and Ethics
@@ -106,8 +106,8 @@ We covered many issues relevant to my current work, including:
 - Testability can mean internal, external and aligned, or external and adversarial. At the policy level, _we need external and adversarial testing_.
 - We haven't talked enough about use cases and scenarios for these systems. Some are designed for legitimate/common purposes (e.g. ethical or societal), and some are created as zero-sum systems (e.g. price discrimination, housing choices, etc where two parties are at odds with each other).
 - Contestability allows for dispute." If you can challenge something, you may be able to change it." _Jennifer Urban_ Downside of contestability is that it's a _post-hoc detriment_, the harm has already happened.
-- ![Contextual needs for contestation](../images/BCLT_ContestableAI.JPG)
-- ![Requirements for meaningful contestation](../images/BCLT_ContestableAIReqs.JPG)
+- ![Contextual needs for contestation](.../images/BCLT_ContestableAI.JPG)
+- ![Requirements for meaningful contestation](.../images/BCLT_ContestableAIReqs.JPG)
 - Judicial opinions offer a really good model of explainability.
 - Slovenia has an approach whereby disparate impacts from algorithms are explicitly prohibited without an explicit law authorizing that particular usage.
 - To say that we have "solved fairness" is impossible—-it's not just a bug that can be closed. It's ongoing. _Jennifer Urban_
