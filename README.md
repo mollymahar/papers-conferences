@@ -19,7 +19,7 @@ Contents:
 
 ### 2019 Conferences
 
-- [Conference Name](URL), [(agenda)](URL)
+- [Governing Machines:Defining and Enforcing Public Policy Values in AI Systems](/conferences/BCLT-BLTJ_Symposium_Governing_Machines_Defining_and_Enforcing_Public_Policy_Values_in_AI_Systems.md), UC Berkeley, April 2019
 
 # Machine Learning
 
