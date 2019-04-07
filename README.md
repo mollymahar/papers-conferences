@@ -1,6 +1,6 @@
 #### Paper & Conference Notes
 
-Inspired by [Daniel Takesh][1], who credits [Adrian Colyer][2] and [Denny Britz][3].
+Inspired by [Daniel Takeshi][1], who credits [Adrian Colyer][2] and [Denny Britz][3].
 
 This contains my notes for research papers that I've read and conferences I've attended. Papers are arranged according to broad categories and publication date. The links here go to my paper summaries if I have them, otherwise they're on my **To Do** list.
 
@@ -19,7 +19,7 @@ Contents:
 
 ### 2019 Conferences
 
-- [Governing Machines:Defining and Enforcing Public Policy Values in AI Systems](/conferences/BCLT-BLTJ_Symposium_Governing_Machines_Defining_and_Enforcing_Public_Policy_Values_in_AI_Systems.md), UC Berkeley, April 2019
+- [Governing Machines: Defining and Enforcing Public Policy Values in AI Systems](/conferences/BCLT-BLTJ_Symposium_Governing_Machines_Defining_and_Enforcing_Public_Policy_Values_in_AI_Systems.md), UC Berkeley, April 2019
 
 # Machine Learning
 
