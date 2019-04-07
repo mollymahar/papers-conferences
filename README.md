@@ -2,7 +2,7 @@
 
 Inspired by [Daniel Takesh][1], who credits [Adrian Colyer][2] and [Denny Britz][3].
 
-This contains my notes for research papers that I've read. Papers are arranged according to broad categories and publication date. The links here go to my paper summaries if I have them, otherwise they're on my **To Do** list.
+This contains my notes for research papers that I've read and conferences I've attended. Papers are arranged according to broad categories and publication date. The links here go to my paper summaries if I have them, otherwise they're on my **To Do** list.
 
 Contents:
 
@@ -17,27 +17,27 @@ Contents:
 
 # Conferences
 
-## 2019 Conferences
+### 2019 Conferences
 
 - [Conference Name](URL), [(agenda)](URL)
 
 # Machine Learning
 
-## 2019 ML Papers
+### 2019 ML Papers
 
 - [Paper Name](URL), [(source)](URL)
 
-## 2018 ML Papers
+### 2018 ML Papers
 
 - [Paper Name](URL), [(source)](URL)
 
-# Ethics
+# Ethics & Policy
 
-## 2019 Ethics Papers
+### 2019 Ethics Papers
 
 - [Paper Name](URL), [(source)](URL)
 
-## 2018 Ethics Papers
+### 2018 Ethics Papers
 
 - [Paper Name](URL), [(source)](URL)
 
