@@ -1,6 +1,4 @@
 # AI Fairness for People with Disabilities: Point of View
-_S Trewin_
----
 
 Main idea: Fairness with relation to disabilities is much different than for other protected classes for two main reasons: the diversity of ways in which disabilities can manifest themselves, and the typically hidden/unshared nature of disability. This leads to a lack of data which of course affects the bias of any datasets and therefore, models.
 
