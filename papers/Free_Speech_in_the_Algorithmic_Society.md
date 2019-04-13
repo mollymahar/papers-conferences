@@ -1,6 +1,4 @@
 # Free Speech in the Algorithmic Society: Big Data, Private Governance, and New School Speech Regulation
-_J Balkin_
----
 
 _Side note: I loved this paper and thought it was really well-written and insightful on the topic. If you're interested in the topic of free speech on the internet, I highly recommend you read it._
 
@@ -17,6 +15,7 @@ Our rights of free expression are simultaneously challenged by companies that tr
 
 Draws a distinction between *distributed* and *democratic* power.
 
+Data about people is a method of governance and control:
 > Debates about robots and artificial intelligence tend to center on whether robots and AI agents themselves are dangerous, whether they will break free from human control, assert themselves, take over the world, and cast humans aside. This is the trope of the Frankenstein monster, or Skynet in the Terminator movies. This way of thinking deflects our attention from what is actually the most important issue. *The question is not the robots; it is the people and companies behind the robots that we should be concerned with*. [emphasis mine]
 
 Two areas where regulation is legal:
