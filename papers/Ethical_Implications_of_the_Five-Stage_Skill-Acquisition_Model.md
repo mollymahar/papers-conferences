@@ -1,6 +1,4 @@
 # The Ethical Implications of the Five-Stage Skill-Acquisition Model
-_H Dreyfus, S Dreyfus_
----
 
 TBH I really did not like this paper. It uses "phenomenologically" entirely too often, and to me I felt it contradicted itself in many places--though maybe that was just because it kept quoting certain writers who were writing about other philosophers and didn't do it well. If you have read this paper and can help me better understand it, please reach out!
 
