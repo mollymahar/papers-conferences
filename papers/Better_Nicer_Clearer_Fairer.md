@@ -1,6 +1,4 @@
-#Better, Nicer, Cleaner, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning
-_D Greene, AL Hoffman, L Stark_
----
+# Better, Nicer, Cleaner, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning
 
 Main idea: this paper does a close reading of the "Ethical AI" statements that have been promulgated by large tech companies and organizations recently to pull out their assumptions and how they've captured and framed the conversation. (Super interesting for someone who loves focusing on what people don't say!)
 
