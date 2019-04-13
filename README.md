@@ -19,10 +19,10 @@ This project is inspired by [Daniel Takeshi][1], who credits [Adrian Colyer][2] 
 
 ## Ethics and Policy
 
-- Free Speech in the Algorithmic Society: Big Data, Private Governance, and New School Speech Regulation, 2018
-- Better, Nicer, Cleaner, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning, 2018
-- AI Fairness for People with Disabilities: Point of View, 2018
-- The Ethical Implications of the Five-Stage Skill-Acquisition Model, 2004
+- [Free Speech in the Algorithmic Society: Big Data, Private Governance, and New School Speech Regulation](/papers/Free_Speech_in_the_Algorithmic_Society.md), 2018
+- [Better, Nicer, Cleaner, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](/papers/Better_Nicer_Clearer_Fairer.md), 2018
+- [AI Fairness for People with Disabilities: Point of View](/papers/AI_Fairness_for_People_with_Disabilities.md), 2018
+- [The Ethical Implications of the Five-Stage Skill-Acquisition Model](/papers/Ethical_Implications_of_the_Five-Stage_Skill-Acquisition_Model.md), 2004
 
 
 ## Machine Learning and NLP
