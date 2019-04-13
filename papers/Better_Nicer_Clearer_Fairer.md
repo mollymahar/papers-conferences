@@ -1,4 +1,4 @@
-# Better, Nicer, Cleaner, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning
+# Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning
 
 Main idea: this paper does a close reading of the "Ethical AI" statements that have been promulgated by large tech companies and organizations recently to pull out their assumptions and how they've captured and framed the conversation. (Super interesting for someone who loves focusing on what people don't say!)
 
@@ -35,5 +35,3 @@ Overall, these discussions and statements seem to be positioned mainly for publi
 
 I love one of the closing statements: 
 > They also take for granted the non-obvious assumption that poor ethics and bad designs produce harmful outcomes. Other causation narratives about the chaos of new, intelligent tools interacting in the wild, or large corporations dominating political processes with no democratic accountability, are equally plausible.
-
-Greene, Daniel, Anna Lauren Hoffmann, and Luke Stark. "Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning." _Proceedings of the 52nd Hawaii International Conference on System Sciences_. 2019.
